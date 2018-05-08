@@ -4,6 +4,6 @@ Vue轮播图
 - 使用技术： Vue + VueRouter。
 - 这个项目有助于熟悉Vue语法及操作。
 
-![static/preview.png]
+![](static/preview.png)
 
 
