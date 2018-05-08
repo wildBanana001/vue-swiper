@@ -1,21 +1,9 @@
-# vueswiper
+Vue轮播图
+==========
+- 使用vue-cli搭建环境，使用webpack模板。`vue init webpack app`
+- 使用技术： Vue + VueRouter。
+- 这个项目有助于熟悉Vue语法及操作。
 
-> A Vue.js project
+![static/preview.png]
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
